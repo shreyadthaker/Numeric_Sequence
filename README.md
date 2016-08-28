@@ -3,7 +3,7 @@ This repository contains source  code for Numeric Sequence  Calculator
 
 ## How to generate sequences?
 
-To generate sequences, please enter a whole number (integer) and click the "Generate Sequence" button.
+To generate sequences, please enter a whole number (integer) and click the "Generate Sequences" button.
 
 The following numeric sequences shall be displayed:
 
